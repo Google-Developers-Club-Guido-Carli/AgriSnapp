@@ -1,0 +1,17 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+android/.gradle
+android/local.properties
+.vscode/
+.idea/
+ios/Runner/AppDelegate.swift
+android/app/src/main/AndroidManifest.xml
+lib/roboflow_service.dart
