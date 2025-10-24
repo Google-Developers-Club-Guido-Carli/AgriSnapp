@@ -2,4 +2,4 @@
 
 
 
-## Please note that you will have to insert your own API keys to run the app.
+API keys have been replaced with a placeholder, .gitignore not yet optimized.
